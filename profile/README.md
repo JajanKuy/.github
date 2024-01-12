@@ -35,3 +35,9 @@ Welcome Page
 Firebase
 
 ![Alt text](https://raw.githubusercontent.com/JajanKuy/Jajankuy-login/main/image-3.png)
+
+
+## JAJANKUY - FRONTEND
+
+![Alt text](https://raw.githubusercontent.com/JajanKuy/.github/main/profile/image1.png)
+![Alt text](https://raw.githubusercontent.com/JajanKuy/.github/main/profile/image2.png)
