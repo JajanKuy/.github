@@ -34,4 +34,4 @@ Welcome Page
 
 Firebase
 
-![Alt text](https://raw.githubusercontent.com/JajanKuy/Jajankuy-login/mainimage-3.png)
+![Alt text](https://raw.githubusercontent.com/JajanKuy/Jajankuy-login/main/image-3.png)
