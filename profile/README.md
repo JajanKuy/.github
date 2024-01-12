@@ -39,5 +39,5 @@ Firebase
 
 ## JAJANKUY - FRONTEND
 
-![Alt text](https://raw.githubusercontent.com/JajanKuy/.github/main/profile/image1.png)
-![Alt text](https://raw.githubusercontent.com/JajanKuy/.github/main/profile/image2.png)
+![Alt text](https://raw.githubusercontent.com/JajanKuy/.github/main/profile/images1.jpg)
+![Alt text](https://raw.githubusercontent.com/JajanKuy/.github/main/profile/images2.jpg)
